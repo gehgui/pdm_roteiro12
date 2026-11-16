@@ -5,9 +5,7 @@ plugins {
 
 android {
     namespace = "com.iftm.livros.data"
-    compileSdk {
-        version = release(37)
-    }
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 24
