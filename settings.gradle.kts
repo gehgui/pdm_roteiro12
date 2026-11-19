@@ -22,7 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "livros"
+rootProject.name = "pdm_roteiro12"
 include(":app")
 include(":domain")
 include(":data")
